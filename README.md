@@ -1,5 +1,5 @@
 # c9-Algorithms
-JavaScript Algorithms and Data Structures Masterclass 
+JavaScript Algorithms and Data Structures Masterclass - udemy.com
 
 
 We start with the basics and then eventually cover “advanced topics” that similar courses shy away from like Heaps,
@@ -35,4 +35,5 @@ Implement 10+ data structures from scratch
 Improve your problem solving skills and become a stronger developer
 
 
-By the author Colt Steele
+By the author,
+Colt Steele
